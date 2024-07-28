@@ -1,0 +1,18 @@
+body{
+    background-color: beige;
+}
+
+h1 {
+    color: blue;
+    transition:color 0.5s ease-in-out;
+}
+
+/* class 이름이 active인 것에 대해서 변환 */
+.clicked{
+    color: tomato;
+}
+
+.sexy-font{
+    color:beige;
+    
+}
